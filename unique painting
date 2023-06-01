@@ -1,3 +1,0 @@
-import matplotlib 
-import turtle 
-print("hello world")
