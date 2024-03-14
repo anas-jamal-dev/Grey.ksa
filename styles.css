@@ -507,7 +507,10 @@ header{
 section{
   padding: 2rem;
 }
-
+.contact .row .map{
+  width:550px;
+  height:400px
+} 
 
 @media (max-width:768px){
   
@@ -549,7 +552,7 @@ header .search-form{
   font-size: 10rem;
 }
 .home .content p{
-  font-size: 5rem;
+  font-size: 3rem;
 } 
 
 
