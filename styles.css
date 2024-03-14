@@ -224,7 +224,7 @@ header .cart-items-container  .btn{
   }
 
 .home .content h3{
-  font-size: 12rem;
+  font-size: 10rem;
   text-transform: uppercase;
   color:#808080;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',  Verdana, sans-serif;
@@ -232,7 +232,7 @@ header .cart-items-container  .btn{
 }
 
 .home .content p{
-  font-size: 6rem;
+  font-size: 3rem;
   font-weight: bold;
   line-height: 1.8;
   padding: 1rem 0;
