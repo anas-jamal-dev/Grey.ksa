@@ -221,7 +221,14 @@ header .cart-items-container  .btn{
 
   .home .content{
     max-width: 60rem;
+  position: relative;
+  z-index: 2; /* keeps text above images */
+  text-align: center; /* optional for nice centering */
   }
+
+.ios-bg {
+  z-index: 1; /* stay behind text */
+}
 
 .home .content h3{
   font-size: 10rem;
@@ -633,3 +640,4 @@ header .search-form{
     25%, 100% { opacity: 0; }
   }
 }
+
